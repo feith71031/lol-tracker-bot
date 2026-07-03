@@ -1,10 +1,24 @@
-## LOL 賽事、選手排位與直播即時追蹤
-為中文社群而生的 Discord 機器人
+## LoL Esports, Pro Player Rank, & Live Stream Tracker
+A Discord Bot Built for the chinese League of Legends Esports Community
 
-官網：https://garnet-scallop-878.notion.site/lolbot-LOL-Tracker-38e0c618a4b3800aa221db879c08d837
+Official Documentation：https://garnet-scallop-878.notion.site/lolbot-LOL-Tracker-38e0c618a4b3800aa221db879c08d837
 
-Discord社群：https://discord.com/invite/UrKYbDysp3
+Join our Support Discord: https://discord.com/invite/UrKYbDysp3
 
-一款專為中文英雄聯盟電競社群設計的 Discord 機器人，幫助粉絲密切關注他們喜愛的職業選手和隊伍。
+Invite the Bot: https://discord.com/oauth2/authorize?client_id=1518046685584953364
 
-三大主要功能：職業選手遊戲/牌位追蹤、實況開播通知，以及全球賽區賽事排程。
+### About the Project
+
+A Discord bot designed specifically for the League of Legends esports community, helping fans closely follow their favorite professional players and teams.
+Key Features
+
+🎮 Pro Player In-Game & Rank Tracking: Powered by the Riot API, the bot continuously monitors pro players' accounts. It sends real-time notifications to Discord servers when a player starts a game, including details like the picked champion and game mode.
+
+📺 Live Stream Notifications: Integrates with platforms like SOOP and CHZZK to instantly notify the community the moment a pro player goes live.
+
+🏆 Global Esports Match Schedules: Provides daily automated reminders and results for LCK and international tournaments (such as MSI and Worlds).
+
+## Screenshots in Action
+
+## Legal Disclaimer
+[lolbot] isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
