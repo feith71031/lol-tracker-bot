@@ -29,12 +29,10 @@ Key Features
 ![Intl Tournament Demo](IMG_5545.jpeg)
 
 ### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
-*(選手遊玩排位/其他通知)*
 ![In-Game Tracking Demo](IMG_5540.jpeg)
 ![In-Game Tracking Demo](IMG_5543.jpeg)
 
 ### 📺 Pro Player Live Stream Notifications (Online / Offline)
-*(選手直播開播/下播通知)*
 ![Live Stream Demo](IMG_5544.jpeg)
 
 ## Legal Disclaimer
