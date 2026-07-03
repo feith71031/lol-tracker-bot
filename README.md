@@ -1,5 +1,5 @@
 ## LoL Esports, Pro Player Rank, & Live Stream Tracker
-A Discord Bot Built for the chinese League of Legends Esports Community
+A Discord Bot Built for the Chinese League of Legends Esports Community
 
 Official Documentation:https://garnet-scallop-878.notion.site/lolbot-LOL-Tracker-38e0c618a4b3800aa221db879c08d837
 
