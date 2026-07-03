@@ -35,5 +35,7 @@ Key Features
 ### 📺 Pro Player Live Stream Notifications (Online / Offline)
 ![Live Stream Demo](IMG_5544.jpeg)
 
+## [📜 Read our Privacy Policy & Terms of Service](privacy-and-terms.md)
+
 ## Legal Disclaimer
 [lolbot] isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
