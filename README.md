@@ -3,7 +3,7 @@ A Discord Bot Built for the chinese League of Legends Esports Community
 
 Official Documentation:https://garnet-scallop-878.notion.site/lolbot-LOL-Tracker-38e0c618a4b3800aa221db879c08d837
 
-Join our Support Discord: https://discord.com/invite/UrKYbDysp3
+Join our Support Discord:https://discord.com/invite/UrKYbDysp3
 
 Invite the Bot:https://discord.com/oauth2/authorize?client_id=1518046685584953364
 
