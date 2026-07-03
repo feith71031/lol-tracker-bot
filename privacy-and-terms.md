@@ -1,6 +1,6 @@
 # Privacy Policy & Terms of Service
 
-Welcome to the **"LoL Bot"** (hereinafter referred to as "the Bot"). To protect your rights and explain how the Bot processes data and provides its services, please read the following *Privacy Policy* and *Terms of Service* carefully before using the Bot.
+Welcome to the **"lolbot"** (hereinafter referred to as "the Bot"). To protect your rights and explain how the Bot processes data and provides its services, please read the following *Privacy Policy* and *Terms of Service* carefully before using the Bot.
 
 By inviting the Bot to your Discord server or using its commands, you agree to the contents described in this document.
 
