@@ -1,5 +1,3 @@
-## LoL Esports, Pro Player Rank, & Live Stream Tracker
-A Discord Bot Built for the Chinese-Speaking League of Legends Esports Community.
 
 # LoL Esports, Pro Player Rank, & Live Stream Tracker
 
