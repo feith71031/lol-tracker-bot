@@ -66,6 +66,6 @@ We reserve the right to modify this *Privacy Policy & Terms of Service* at any t
 If you have any questions about this *Privacy Policy & Terms of Service*, or need to report bugs or suggest new features, please contact the developer via:
 
 *   **Discord:** `feithjjju`
-*   **Discord Community:** https://discord.gg/UrKYbDysp3
+*   [**Discord Community:**] (https://discord.gg/UrKYbDysp3)
 
 *(Last Updated: June 2026)*
