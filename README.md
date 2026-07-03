@@ -20,16 +20,21 @@ Key Features
 
 ## Screenshots in Action
 ### 📅 Daily Match Reminders for Tracked Teams
-*(關注隊伍的每日賽程提醒)*
 ![Daily Reminder](IMG_5539.jpeg)
 
 ### 🏆 Team Schedule Inquiry
-*(隊伍賽程查詢)*
-![Schedule Inquiry Demo](schedule-demo.png)
+![Schedule Inquiry Demo](IMG_5547.jpeg)
 
 ### 🌍 International Tournament Tracker
-*(國際賽事查詢)*
-![Intl Tournament Demo](intl-demo.png)
+![Intl Tournament Demo](IMG_5545.jpeg)
+
+### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
+*(選手遊玩排位/其他通知)*
+![In-Game Tracking Demo](ingame-demo.png)
+
+### 📺 Pro Player Live Stream Notifications (Online / Offline)
+*(選手直播開播/下播通知)*
+![Live Stream Demo](stream-demo.png)
 
 ## Legal Disclaimer
 [lolbot] isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
