@@ -19,6 +19,6 @@ Key Features
 🏆 Global Esports Match Schedules: Provides daily automated reminders and results for LCK and international tournaments (such as MSI and Worlds).
 
 ## Screenshots in Action
-<img src="IMG_5539" width="600" alt="Daily match schedule reminders for the teams you follow">
+![機器人實機畫面](IMG_5539)
 ## Legal Disclaimer
 [lolbot] isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
