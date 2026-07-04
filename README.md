@@ -22,23 +22,24 @@ Key Features
 
 ## Screenshots in Action
 ### 📅 Daily Match Reminders for Tracked Teams
-![Daily Reminder](IMG_5539.jpeg)
+![Daily Reminder](172959.png)
 
 ### 🏆 Esports Match Start Alerts
 ![Match Start Demo](172537.png)
 
 ### 🏆 Team Schedule Inquiry
-![Schedule Inquiry Demo](IMG_5547.jpeg)
+![Schedule Inquiry Demo](172831.png)
 
 ### 🌍 International Tournament Tracker
 ![Intl Tournament Demo](172114.png)
 
 ### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
-![In-Game Tracking Demo](IMG_5540.jpeg)
-![In-Game Tracking Demo](IMG_5543.jpeg)
+![In-Game Tracking Demo](173313.jpeg)
+![In-Game Tracking Demo](173257.jpeg)
 
 ### 📺 Pro Player Live Stream Notifications (Online / Offline)
-![Live Stream Demo](IMG_5544.jpeg)
+![Live Stream Demo](173116.png)
+![Live Stream Demo](173130.png)
 
 ## [📜 Read our Privacy Policy & Terms of Service](privacy-and-terms.md)
 
