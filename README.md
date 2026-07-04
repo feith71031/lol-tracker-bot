@@ -12,6 +12,7 @@ A Discord Bot Built for the **Chinese-Speaking** League of Legends Esports Commu
 ### About the Project
 
 A Discord bot designed specifically for the League of Legends esports community, helping fans closely follow their favorite professional players and teams.
+
 Key Features
 
 🎮 Pro Player In-Game & Rank Tracking: Powered by the Riot API, the bot continuously monitors pro players' accounts. It sends real-time notifications to Discord servers when a player starts a game, including details like the picked champion and game mode.
