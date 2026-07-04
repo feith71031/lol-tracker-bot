@@ -21,6 +21,19 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 
 🏆 Global Esports Match Schedules: Provides daily automated reminders and results for LCK and international tournaments (such as MSI and Worlds).
 
+## 🚀 Future Roadmap 
+
+*Please note: To ensure server stability and avoid rate limits, the following exciting features will be gradually rolled out once our **Riot Production API** application is approved.*
+
+1. **Tracking for Retired & Free Agent Players**
+   Expand our tracking roster to include legendary retired pros and current free agents, providing notifications for their solo queue games and live streams.
+
+2. **Match VOD Integration **
+   Add direct VOD links to the post-match results, allowing fans to easily catch up on the games they missed without searching manually.
+
+3. **Global Region Expansion **
+   Currently focused on the LCK, we plan to bring our full suite of features—match schedules, pro player in-game alerts, and live stream notifications—to other major regions (such as LPL, LEC, and LCS).
+
 ## Screenshots in Action
 ### 📅 Daily Match Reminders for Tracked Teams
 ![Daily Reminder](172959.png)
