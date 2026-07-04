@@ -13,6 +13,11 @@
 
 A Discord bot designed specifically for the  **Chinese-Speaking** League of Legends esports community, helping fans closely follow their favorite professional players and teams.
 
+**📈 Current Server Count**
+
+Currently trusted by and actively serving **144** Discord communities.
+
+
 ### Key Features
 
 🎮 Pro Player In-Game & Rank Tracking: Powered by the Riot API, the bot continuously monitors pro players' accounts. It sends real-time notifications to Discord servers when a player starts a game, including details like the picked champion and game mode.
@@ -22,9 +27,6 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 🏆 Global Esports Match Schedules: Provides daily automated reminders and results for LCK and international tournaments (such as MSI and Worlds).
 
 
-**📈 Current Server Count**
-
-Currently trusted by and actively serving **144** Discord communities.
 
 ## 🚀 Future Roadmap 
 
