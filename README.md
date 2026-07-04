@@ -13,7 +13,7 @@
 
 A Discord bot designed specifically for the  **Chinese-Speaking** League of Legends esports community, helping fans closely follow their favorite professional players and teams.
 
-**📈 Project Status (專案狀態)**
+**📈 Project Status**
 *   **Servers:** Actively serving **144** Discord communities.
   
 *   **Verification:** Officially **Verified by Discord**.
