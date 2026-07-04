@@ -28,10 +28,10 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 1. **Tracking for Retired & Free Agent Players**
    Expand our tracking roster to include legendary retired pros and current free agents, providing notifications for their solo queue games and live streams.
 
-2. **Match VOD Integration **
+2. **Match VOD Integration**
    Add direct VOD links to the post-match results, allowing fans to easily catch up on the games they missed without searching manually.
 
-3. **Global Region Expansion **
+3. **Global Region Expansion**
    Currently focused on the LCK, we plan to bring our full suite of features—match schedules, pro player in-game alerts, and live stream notifications—to other major regions (such as LPL, LEC, and LCS).
 
 ## Screenshots in Action
