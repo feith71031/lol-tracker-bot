@@ -34,8 +34,8 @@ Key Features
 ![Intl Tournament Demo](172114.png)
 
 ### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
-![In-Game Tracking Demo](173313.jpeg)
-![In-Game Tracking Demo](173257.jpeg)
+![In-Game Tracking Demo](173313.png)
+![In-Game Tracking Demo](173257.png)
 
 ### 📺 Pro Player Live Stream Notifications (Online / Offline)
 ![Live Stream Demo](173116.png)
