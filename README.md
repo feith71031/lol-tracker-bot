@@ -57,7 +57,14 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 
 ![Schedule Inquiry Demo](172831.png)
 
+### 🌐 Regional League Matches Inquiry
+💡 **Note:** If a match is currently live, an official broadcast link will be included.
+
+![regional matches Demo](193145.png)
+
 ### 🌍 International Tournament Tracker
+💡 **Note:** If a match is currently live, an official broadcast link will be included.
+
 ![Intl Tournament Demo](172114.png)
 
 ### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
