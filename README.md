@@ -39,9 +39,11 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 ![Daily Reminder](172959.png)
 
 ### 🏆 Esports Match Start Alerts
+*💡 **Note:** If a match is currently live, an official broadcast link will be included.
 ![Match Start Demo](172537.png)
 
 ### 🏆 Team Schedule Inquiry
+*💡 **Note:** If a match is currently live, an official broadcast link will be included.
 ![Schedule Inquiry Demo](172831.png)
 
 ### 🌍 International Tournament Tracker
