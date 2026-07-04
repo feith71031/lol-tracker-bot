@@ -24,6 +24,10 @@ Key Features
 ### 📅 Daily Match Reminders for Tracked Teams
 ![Daily Reminder](IMG_5539.jpeg)
 
+### 🏆 Esports Match Start Alerts
+*(比賽開打通知)*
+![Match Start Demo](172537.png)
+
 ### 🏆 Team Schedule Inquiry
 ![Schedule Inquiry Demo](IMG_5547.jpeg)
 
