@@ -32,7 +32,7 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
    Add direct VOD links to the post-match results, allowing fans to easily catch up on the games they missed without searching manually.
 
 3. **Global Region Expansion**
-   Currently focused on the LCK, we plan to bring our full suite of features—match schedules, pro player in-game alerts, and live stream notifications—to other major regions (such as LPL, LEC, and LCS).
+   Currently focused on the LCK, we plan to bring our full suite of features—match schedules, pro player in-game alerts, and live stream notifications—to other major regions (such as LPL, LEC, LCP, CBLOL, and LCS).
 
 ## Screenshots in Action
 ### 📅 Daily Match Reminders for Tracked Teams
