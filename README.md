@@ -21,6 +21,9 @@ A Discord bot designed specifically for the  **Chinese-Speaking** League of Lege
 
 🏆 Global Esports Match Schedules: Provides daily automated reminders and results for LCK and international tournaments (such as MSI and Worlds).
 
+**📈 Current Server Count**
+Currently trusted by and actively serving **144** Discord communities.
+
 ## 🚀 Future Roadmap 
 
 *Please note: To ensure server stability and avoid rate limits, the following exciting features will be gradually rolled out once our **Riot Production API** application is approved.*
