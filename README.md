@@ -28,7 +28,7 @@ Key Features
 ![Schedule Inquiry Demo](IMG_5547.jpeg)
 
 ### 🌍 International Tournament Tracker
-![Intl Tournament Demo](2026-07-04 172114.png)
+![Intl Tournament Demo](172114.png)
 
 ### 🎮 Pro Player In-Game Alerts (Ranked & Other Modes)
 ![In-Game Tracking Demo](IMG_5540.jpeg)
