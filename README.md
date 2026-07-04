@@ -1,7 +1,7 @@
 
 # LoL Esports, Pro Player Rank, & Live Stream Tracker
 
-A Discord Bot Built for the **Chinese-Speaking** League of Legends Esports Community.
+
 
 **[Official Documentation](https://garnet-scallop-878.notion.site/lolbot-LOL-Tracker-38e0c618a4b3800aa221db879c08d837)**
 
@@ -11,7 +11,7 @@ A Discord Bot Built for the **Chinese-Speaking** League of Legends Esports Commu
 
 ### About the Project
 
-A Discord bot designed specifically for the League of Legends esports community, helping fans closely follow their favorite professional players and teams.
+A Discord bot designed specifically for the  **Chinese-Speaking** League of Legends esports community, helping fans closely follow their favorite professional players and teams.
 
 ### Key Features
 
